@@ -1,0 +1,266 @@
+body{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    background-color: antiquewhite;
+    
+
+h1{
+  /* padding: 5px; */
+display: contents;
+gap:5rem;
+}
+
+.content{
+  text-align: center;
+  background-color: blanchedalmond;
+}
+
+.container{
+  /* gap: 5rem; */
+  padding-left: 100px;
+  padding-bottom: 50px;
+  
+}
+
+.form{
+  margin-top: 3px;
+} 
+
+.search-bar{ 
+  height:30px;
+  width: 950px;
+  padding-top: 2px;
+  margin: 5px;
+  border-radius: 10px;
+}
+
+.search-btn{
+  text-align: justify;
+  border-radius: 15px;
+
+
+}
+
+.container li{
+  display: flex;
+  padding: 3%;
+  text-align: center;
+  height: 20px;
+  row-gap: 10rem;
+  font-size: large;
+
+}  
+
+.form{
+  padding: 20px;
+  margin: 20px;
+}
+
+        /* Second header Css */
+.search-btn1{
+  text-align: justify;
+  border-radius: 10px;
+  gap: 20rem;
+
+}
+
+.form-text{
+  padding: 20px;
+  margin: 40px;
+  display: flex;
+  gap: 10rem;
+  color: white;
+}
+
+      /* second header CSS ends */
+
+
+      /* Production Css */
+
+.product{
+  padding: 0px;
+  text-align: justify;
+}
+ .col-md-8{
+  border-radius: 5%;
+  height: 580px;
+  width: 490px;
+  padding: 0px;
+ }  
+ 
+ .col-md-3{
+  border-radius: 5px;
+  height: 580px;
+  width: 5000px;
+
+ }
+
+ /* .col-md-3{
+  border-radius: 5px;
+  height: 290px;
+  width: 990px;
+ } */
+
+    /* End of product Css */
+
+
+        /* Discount CSS */
+.text{
+  padding: 60px;
+  padding-left: 20px;
+
+}
+    /* End of Discount Css  */
+
+
+       /* Trending Css  */
+.container-fluid{
+  text-align: center;
+  gap: 80rem;
+  grid: 100px;
+  /* margin: 100px; */
+    
+}
+
+img .content2 .content_2 .contents_2 .content3{
+  margin: 50px;
+  margin-bottom: 20px;
+  margin-right: 20px;
+}
+
+
+.content2{
+  padding: 20px;
+  margin: 40px;
+  color: white;
+ 
+}
+
+.content_2{
+  margin: 20px;
+  padding: 40px;
+  /* text-align: center; */
+}
+
+.contents_2{
+  margin: 20px;
+  padding: 40px;
+  tex
+}
+
+#text{
+  padding:20px;
+  margin: 40px;
+}  
+
+
+.textarea{
+  color: lightskyblue;
+}
+
+.box{
+  border: 20px;
+  border-radius: 15%;
+}
+
+.col-3{
+  box-sizing: border-box;
+  border-radius: 10%;
+  height: 280px;
+  width: 20rem;
+  block-size: auto;
+}
+
+.col-md-5{
+  box-sizing: border-box;
+  border-radius: 8%;
+  height: 180px;
+  width: 20rem;
+  block-size: auto;
+}
+
+.col-4{
+  box-sizing: border-box;
+  border-radius: 10%;
+  height: 280px;
+  width: 20rem;
+}
+        /* End of Trending CSS */
+
+
+        /* Others CSS */
+
+
+ .content3{
+    margin: 20px;
+    padding: 40px;
+    padding-right: 60px;
+    gap: 40rem;
+ }
+
+
+      /* other css end */
+.search{
+  
+}
+
+#text{
+  font-size: xx-large;
+}
+
+.content4{
+  display: flex;
+  padding: 20px;
+  margin: 40px;
+  gap: 10rem;
+
+}
+
+#button{
+  text-align: center;
+}
+
+.btn{
+  font-size: xx-large;
+  color: rgb(11, 247, 247);
+  font-family: Arial, Helvetica, sans-serif;
+}  
+
+.btn1{
+  font-size: xx-large;
+  font-family: cursive;
+  color: black;
+}
+
+.btn2{
+  color: green;
+  font-size: xx-large;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: oblique;
+}
+
+.btn3{
+  color: lightsalmon;
+  font-size: xx-large;
+}
+ 
+           /* footer css */
+footer{
+    margin:0px;
+    padding: 60px;
+    /* padding-right: 60px; */
+    display: flex;
+    gap: 7rem;
+    color: rgb(210, 61, 61);
+    background-color: rgba(0, 0, 0, 0.763);
+
+}
+
+.content2 h5{
+  font-size: xx-large;
+}
+
+/* footer .content2{
+     margin-bottom: 20px;
+} */
